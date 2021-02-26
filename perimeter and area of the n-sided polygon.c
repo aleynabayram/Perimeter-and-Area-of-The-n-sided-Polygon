@@ -1,3 +1,5 @@
+/*The code calculates the perimeter and area of the n-sided polygon*/
+
 #include<stdio.h>
 
 int main(){
